@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 👋 Welcome to My Portfolio
+# 👋 Welcome to My Projects
 
 ## 🚀 Projects
 - [🔗 Power BI ](https://app.powerbi.com/...)
